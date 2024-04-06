@@ -1,2 +1,2 @@
-# Octanet-internship 
+# Internship 
 This repo contains tasks of Internship 
